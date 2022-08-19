@@ -1,0 +1,15 @@
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.csproj.AssemblyReference.cache
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.AssemblyInfoInputs.cache
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.AssemblyInfo.cs
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.csproj.CoreCompileInputs.cache
+D:\C#_seminars\Seminar4\Exponentiation\bin\Debug\net6.0\Exponentiation.exe
+D:\C#_seminars\Seminar4\Exponentiation\bin\Debug\net6.0\Exponentiation.deps.json
+D:\C#_seminars\Seminar4\Exponentiation\bin\Debug\net6.0\Exponentiation.runtimeconfig.json
+D:\C#_seminars\Seminar4\Exponentiation\bin\Debug\net6.0\Exponentiation.dll
+D:\C#_seminars\Seminar4\Exponentiation\bin\Debug\net6.0\Exponentiation.pdb
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.dll
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\refint\Exponentiation.dll
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.pdb
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\Exponentiation.genruntimeconfig.cache
+D:\C#_seminars\Seminar4\Exponentiation\obj\Debug\net6.0\ref\Exponentiation.dll
